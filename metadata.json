@@ -1,0 +1,7 @@
+{
+  "name": "Cinematic INS Wedding Invitation",
+  "description": "A high-end, minimalist wedding e-invitation with slow auto-scroll, background music, and a Morandi color palette.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
